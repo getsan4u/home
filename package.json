@@ -1,5 +1,5 @@
 {
-  "name": "developers-portfolio",
+  "name": "system_engineer-portfolio",
   "description": "",
   "homepage": "https://getsan4u.github.io/home",
   "version": "2.0.0",
@@ -7,7 +7,7 @@
   "author": {
     "name": "Sanjid Salam",
     "email": "sanjid.salam.p@gmail.com",
-    "url": "https://github.com/hashirshoaeb"
+    "url": "https://github.com/getsan4u"
   },
   "dependencies": {
     "axios": "^0.19.2",

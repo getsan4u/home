@@ -46,7 +46,7 @@ const mainBody = {
 //      i.e: profilePictureLink: "",
 // For Resume either provide link to your resume or import from "editable-stuff" directory
 //     i.e resume: require("../editable-stuff/resume.pdf"),
-//         resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+//         resume: "https://drive.google.com/file/d/1Z_x3jwSi3WJ7U_Wp4AqRYLrOX2DMW7lp/view?usp=sharing",
 
 const about = {
   show: true,
@@ -55,7 +55,7 @@ const about = {
   imageSize: 375,
   message:
     "My name is Sanjid Salam.I’m a graduate from M E S College Of Engineering affiliated to Calicut University with a B.Tech degree in Computer Engineering. I'm most passionate about learning new things, and my goal is to pursue this passion within the field of devops engineering. In my free time I used to learn about devops tools and open source projects.",
-  resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+  resume: "https://drive.google.com/file/d/1Z_x3jwSi3WJ7U_Wp4AqRYLrOX2DMW7lp/view?usp=sharing",
 };
 
 // PROJECTS SECTION
@@ -138,7 +138,7 @@ const getInTouch = {
 };
 
 const experiences = {
-  show: false,
+  show: true,
   heading: "Experiences",
   data: [
     {
